@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Big Data Application Development
 - 👯 I’m looking to collaborate on  XX (for looking for an internship before my graduate)
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about single or married?
-- 📫 How to reach me: click link below
+- 💬 Ask me about (I don't know) maybe single or married?
+- 📫 How to reach me: click link below and find surprise
 - 😄 Pronouns: guess 
 - ⚡ Fun fact: like eating, don't like coding
 
