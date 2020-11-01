@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>Some other education background about me~e~e 🔭 **click** 🔭</summary>
+  <summary>Some other education background about me~e~e 🔭 <em>click</em>  🔭</summary>
   <br>
 
 
