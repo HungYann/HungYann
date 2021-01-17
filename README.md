@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[Resume](https://liu-hongyang.github.io/Resume/) 
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>Some other education background about me~e~e 🔭 <em>click</em>  🔭</summary>
+  <summary>Some other education background about me~e~e ** <em>click</em>  **</summary>
   <br>
 
 
