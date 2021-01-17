@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Resume](https://liu-hongyang.github.io/Resume/) 
+
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: guess 
 - ⚡ Fun fact: like eating, don't like coding
 
-
+- [Resume](https://liu-hongyang.github.io/Resume/) 
 
 
 <details>
