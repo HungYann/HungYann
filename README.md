@@ -15,7 +15,7 @@
 | --- | --- | --- | 
 | SeaFile | 研发工程师| 职责: 参与公司以在线协同表格为基础的新型数字化平台SeaTable的研发; <br> 内容: 使用Golang语言，对自研分布式数据库进行接口开发; <br> 成果: 设计并开发Api接口(包括批量增删表格数据，Api Requests请求中断，Api访问耗时计算等)，为前端提供Api耗时计算，和Api资源释放权限; | 
 | 贵州白山云科技有限公司 |  研发工程师  | 组件开发: 使用Golang独立开发自研组件，提供S3云存储日志数据接口，熟悉Channel多协程用法 <br> 容器化: 使用Docker、Kubernetes等工具实现容器化，并构建性能监控体系 <br> 中间件： 熟练使用消息队列Kafka、具备Flume拦截器，选择器处理日志数据的开发经验，并对日志下载系统有较深理解 | 
-｜ 百度（实习） | 实习生 | 参与百度地图导航项目;涉及数据标注项目 <br> 主要职责: 技术培训，质量检测 <br> 成果: 质检正确率从最初80%提升至95%+，为项目部门平均节省20%成本 | 
+百度（实习） | 实习生 | 参与百度地图导航项目;涉及数据标注项目 <br> 主要职责: 技术培训，质量检测 <br> 成果: 质检正确率从最初80%提升至95%+，为项目部门平均节省20%成本 | 
 
 
 ### 专业技能
@@ -43,11 +43,9 @@
 
 
 
-
-
  <p>
   <a href="https://profile-summary-for-github.com/user/liu-hongyang" target="_blank" >
-    <img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gk9kk3eysrj313m0u0n9j.jpg" />
+    <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4ez1qb7iij215f0u0gpn.jpg" />
   </a>
- 
+  <a> update on July 21, 2022</a>
 </p>
