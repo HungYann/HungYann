@@ -25,7 +25,7 @@
 | --- | --- | 
 | 工具类 | 熟练使用Linux shell，Git版本控制, 代码管理Maven和Vim编辑器，掌握自动化运维工具Ansible，进程管理工具Systemd和Supervisor, 备测试环境部署经验，及运维操作线上生产服务器经验 | 
 | 语言类 |  掌握Java，Golang编程语言，对Python，Scala有使用经验。了解Golang高并发编程，Channel通信机制使用 | 
-| 框架类 | 运用Golang( Beego, RPC, Etcd，Prometheus，Viper，Echo, Ants)， 及大数据框架(Flume，Kafka), 抱有极大兴趣，喜欢钻研技术 | 
+| 框架类 | 运用Golang( Beego, RPC, Etcd，Prometheus，Viper，Echo, Ants, validator)， 及大数据框架(Flume，Kafka), 抱有极大兴趣，喜欢钻研技术 | 
 | 容器化 | 参与Docker + Kubernetes容器化项目 | 
 | 数据库 | 运用Elasticsearch，Mongo等分布式数据库, 以及掌握Redis和Mysql数据库  |
 | 其他 | PB级日志大数据平台自研组件开发，NLP数据处理分析，推荐系统，熟悉Python等数据处理技能(学术背景)，英文良好 |
