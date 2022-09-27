@@ -13,7 +13,7 @@
 
 | | | | 
 | --- | --- | --- | 
-| 北京大数据研究院上海（品见） | golang后端 |  职责: 参与公司ERP系统开发，熟悉sqlx、beego框架，以及grpc, json通信方式; 了解数据库mysql, redis数据库使用和优化，对Mysql索引机制比较了解; 掌握nginx组件反向代理使用; 在编程语言方面，掌握golang并发使用；参与项目：1.公司监控告警系统 prometheus + grfana + node-exporter + 企业微信机器人告警系统  2.Mysql数据库索引优化 3.nginx+lua+openresty代理服务器脚本开发| 
+| 北京大数据研究院上海（品见） | golang后端 |  职责: 参与公司ERP系统开发，熟悉sqlx、beego框架，以及grpc, json通信方式; 了解数据库mysql, redis数据库使用和优化，对Mysql索引机制比较了解; 掌握nginx组件反向代理使用; 在编程语言方面，掌握golang并发使用；参与项目：1.公司监控告警系统 prometheus + grfana + node-exporter + 企业微信机器人告警系统  2.Mysql数据库索引优化 3.nginx+lua+openresty代理服务器脚本开发 4.工业领域使用celery, viper等框架| 
 | SeaFile | 研发工程师| 职责: 参与公司以在线协同表格为基础的新型数字化平台SeaTable的研发; <br> 内容: 使用Golang语言，对自研分布式数据库进行接口开发; <br> 成果: 设计并开发Api接口(包括批量增删表格数据，Api Requests请求中断，Api访问耗时计算等)，为前端提供Api耗时计算，和Api资源释放权限; | 
 | 贵州白山云科技有限公司 |  研发工程师  | 组件开发: 使用Golang独立开发自研组件，提供S3云存储日志数据接口，熟悉Channel多协程用法 <br> 容器化: 使用Docker、Kubernetes等工具实现容器化，并构建性能监控体系 <br> 中间件： 熟练使用消息队列Kafka、具备Flume拦截器，选择器处理日志数据的开发经验，并对日志下载系统有较深理解 | 
 百度（实习） | 实习生 | 参与百度地图导航项目;涉及数据标注项目 <br> 主要职责: 技术培训，质量检测 <br> 成果: 质检正确率从最初80%提升至95%+，为项目部门平均节省20%成本 | 
