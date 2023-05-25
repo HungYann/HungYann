@@ -22,7 +22,7 @@
 
 | | | 
 | --- | --- | 
-| 工具类 | 熟练使用Linux shell，Git版本控制, 代码管理Maven和Vim编辑器，掌握自动化运维工具Ansible，进程管理工具Systemd和Supervisor, 备测试环境部署经验，及运维操作线上生产服务器经验，Docker, Docker-compose编排容器化项目，具有多项项目上线经理 | 
+| 工具类 | 熟练使用Linux命令，Git版本控制命令, 可运用Vim语言编辑器开发，掌握自动化运维工具Ansible，进程管理工具Systemd和Supervisor, 备测试环境部署经验，及运维操作线上生产服务器经验，Docker, Docker-compose编排容器化项目，具有多项项目上线经理 | 
 | 语言类 |  掌握Java，Golang等编程语言，对Python在自然语言处理，Java和Scala在大数据领域日志领域有项目经验。了解Golang语言，高并发编程，对golang开发有多项项目经验 | 
 | 框架类 | 运用Golang( Beego, RPC, Etcd，Prometheus，Viper，Echo, Ants, validator，Gin)， 及大数据框架(Flume，Kafka), 抱有极大兴趣，喜欢钻研技术 | 
 | 容器化 | 参与Docker + Kubernetes or Docker Compose容器化,虚拟化部署golang项目 | 
