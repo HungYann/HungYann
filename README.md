@@ -23,10 +23,10 @@
 | | | 
 | --- | --- | 
 | 工具类 | 熟练使用Linux命令，Git版本控制命令, 可运用Vim语言编辑器开发，掌握自动化运维工具Ansible，进程管理工具Systemd和Supervisor, 备测试环境部署经验，及运维操作线上生产服务器经验，Docker, Docker-compose编排容器化项目，具有多项项目上线经理 | 
-| 语言类 |  掌握Java，Golang等编程语言，对Python在自然语言处理，Java和Scala在大数据领域日志领域有项目经验。了解Golang语言，高并发编程，对golang开发有多项项目经验 | 
-| 框架类 | 运用Golang( Beego, RPC, Etcd，Prometheus，Viper，Echo, Ants, validator，Gin)， 及大数据框架(Flume，Kafka), 抱有极大兴趣，喜欢钻研技术 | 
+| 语言类 |  掌握Java，Golang等编程语言，对Python在自然语言处理，人脸识别，脚本制作，Java和Scala在大数据领域日志领域有项目和开发经验。了解Golang语言，高并发编程，对golang开发有多项项目经验 | 
+| 框架类 | 运用Golang( Beego, RPC, Etcd，Prometheus，Viper，Echo, Ants, validator，Gin)， 及日志中间件Flume， Kafka, 掌握beego, echo, gin等web框架以及ORM框架gorm, 抱有极大兴趣，喜欢钻研技术 | 
 | 容器化 | 参与Docker + Kubernetes or Docker Compose容器化,虚拟化部署golang项目 | 
-| 数据库 | 对多种数据库有使用经验库缓存-Redis; 关系型数据库PgSQL, MySQL; 非关系型数据库Elasticsearch，Mongo  |
+| 数据库 | 对多种数据库有使用经验库缓存-Redis; 关系型数据库PgSQL, MySQL; 具备分布式数据库ES, 文档型数据库Mongo使用经验，以及自研LSM数据库 |
 | 项目经验 | PB级日志大数据平台自研组件开发，NLP数据处理分析，推荐系统，熟悉Python脚本及数据处理技能，英文良好 |
 | 语言 | 英文良好，能够熟练阅读英文文献 |
 
