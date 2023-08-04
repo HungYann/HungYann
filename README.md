@@ -46,7 +46,7 @@
 邮箱: 1664698982@qq.com
 
 
-- 电子简历：[Resume](https://liu-hongyang.github.io/Resume/) 
+- 电子简历：[Resume](https://hungyann.github.io/Resume/) 
 
 
 
