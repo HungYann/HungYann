@@ -6,6 +6,3 @@ AI & Backend Engineer focused on:
 * Golang / Python / Rust
 * Web3 & Solana Infrastructure
 * Computer Vision & Machine Learning
-
-🌐 Portfolio
-https://www.agentdna.store/resume
